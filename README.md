@@ -1,13 +1,13 @@
 # Java-Design-Patterns
 Java Design Patterns Example
 
-###Creational Design Patterns
+### Creational Design Patterns
 	* Singleton Pattern
 	* Factory Pattern
 	* Abstract Factory Pattern
 	* Builder Pattern
 	* Prototype Pattern
-###Structural Design Patterns
+### Structural Design Patterns
 	* Adapter Pattern
 	* Composite Pattern
 	* Proxy Pattern
@@ -15,7 +15,7 @@ Java Design Patterns Example
 	* Facade Pattern
 	* Bridge Pattern
 	* Decorator Pattern
-###Behavioral Design Patterns
+### Behavioral Design Patterns
 	* Template Method Pattern
 	* Mediator Pattern
 	* Chain of Responsibility Pattern
